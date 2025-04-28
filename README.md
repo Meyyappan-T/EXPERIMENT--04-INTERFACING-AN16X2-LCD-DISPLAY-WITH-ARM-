@@ -273,8 +273,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![Uploading WhatsApp Image 2025-04-28 at 08.41.02_a646232d.jpg…]()
+![exp_4 proteus  ](https://github.com/user-attachments/assets/9b979106-92ee-4d58-8a08-0de0e3d04874)
 
+  
 
 
  
